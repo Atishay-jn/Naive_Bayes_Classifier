@@ -24,7 +24,7 @@ While predicting probability of different classes of the test data point, I have
 * Formula Used :
 
 <p align="center">
-  <img width="460" height="300" src="naive_bayes_icon.png">
+  <img src="naive_bayes_icon.png">
 </p>
 
 * Dataset's Downloaded From:
